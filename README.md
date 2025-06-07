@@ -33,10 +33,10 @@ The AWS credentials and S3 bucket configuration are managed through environment 
 5. DB_NAME: The specific name of the database to use.
 
 ### AWS S3
-1. AWS_REGION: The AWS region where your S3 bucket resides.
-2. AWS_ACCESS_KEY_ID: Your AWS account access key ID for programmatic access.
-3. AWS_SECRET_ACCESS_KEY: Your AWS account secret access key.
-4. S3_BUCKET_NAME: The name of the S3 bucket where files will be stored and retrieved.
+6. AWS_REGION: The AWS region where your S3 bucket resides.
+7. AWS_ACCESS_KEY_ID: Your AWS account access key ID for programmatic access.
+8. AWS_SECRET_ACCESS_KEY: Your AWS account secret access key.
+9. S3_BUCKET_NAME: The name of the S3 bucket where files will be stored and retrieved.
 
 
 ## Upload a CSV File
